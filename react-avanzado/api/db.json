@@ -25,7 +25,9 @@
     {
       "id": "5bc111f0-76fb-11ea-b59a-ad9a711c2f80",
       "password": "$2b$10$BUpM26qMPCn/Qc4mqkr44Oli7n.eeTK19c/nbh.tXjRcOFPJ9lmwW",
-      "favs": [],
+      "favs": [
+        "1"
+      ],
       "avatar": "https://gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e",
       "email": ""
     },
@@ -35,6 +37,41 @@
       "favs": [],
       "avatar": "https://gravatar.com/avatar/dff747f49b913bb58cc601c01b70e272",
       "email": "kfkdjfkjsfskjfks"
+    },
+    {
+      "id": "3562af40-776a-11ea-88c5-21de4ec84146",
+      "password": "$2b$10$P460E2sKLkaEKxMnyvcWdeqCkpGG6cRwB4PaIcUxFcgHNcj/4JDVa",
+      "favs": [],
+      "avatar": "https://gravatar.com/avatar/27a3e765cf4a22586deffbb0a87b572f",
+      "email": "flor@gmail.com"
+    },
+    {
+      "id": "35523480-776a-11ea-88c5-21de4ec84146",
+      "password": "$2b$10$5aWAIcVNgigWzQvTONuj4.3d2CQz4vUE.0.7LrTdtrUF8m6kCthEq",
+      "favs": [],
+      "avatar": "https://gravatar.com/avatar/27a3e765cf4a22586deffbb0a87b572f",
+      "email": "flor@gmail.com"
+    },
+    {
+      "id": "4807b060-77b9-11ea-b4e1-bb11fc7227e6",
+      "password": "$2b$10$d0NvxsPrt/nK3E.LF3KIe.tFVJ/ZcfHM67WKQUtN4u8hrhVDVZjWm",
+      "favs": [],
+      "avatar": "https://gravatar.com/avatar/46b772a6016196cf24771fcce85c910a",
+      "email": "bgbfgbf"
+    },
+    {
+      "id": "a3da7290-77c0-11ea-832c-fb1bbbb99a43",
+      "password": "$2b$10$/aXmXBzO6PiA5a4ZQT7/l.tDdZwqmD75VAOjfcYND/LyHrMwOB1.K",
+      "favs": [],
+      "avatar": "https://gravatar.com/avatar/d38e99d9790733c939e88698afbc30b6",
+      "email": "flor"
+    },
+    {
+      "id": "bc545110-77c0-11ea-832c-fb1bbbb99a43",
+      "password": "$2b$10$RWuMp3/tyZ8D1W7vWFAOhuub7TPSOTr45f9supY8O/tx/2GvgNaPy",
+      "favs": [],
+      "avatar": "https://gravatar.com/avatar/71312b51b2fda9449f67e1762d1da855",
+      "email": "florencia@gmail.com"
     }
   ],
   "categories": [
@@ -87,7 +124,7 @@
       "categoryId": 1,
       "src": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
       "userId": 1,
-      "likes": 45
+      "likes": 46
     },
     {
       "id": 15,
